@@ -6,8 +6,10 @@ module.exports = [
 	"www-www.bing.com.trafficmanager.net",
 	"bing.com.edgekey.net",
 
-	"msn.com",
+	"a-msedge.net",
 	"www-msn-com.a-0003.a-msedge.net",
+
+	"msn.com",
 
 	"mcafee.com",
 	"www-mcafeee-r53.awsconsumer.mcafee.com",
@@ -15,6 +17,9 @@ module.exports = [
 
 	"instagram.com",
 	"geo-p42.instagram.com",
+
+	"x.com",
+	"twitter.com",
 
 	"trustedsource.org",
 	"scorecardresearch.com",
@@ -25,6 +30,13 @@ module.exports = [
 
 	"kaspersky.fr",
 	"rt.com",
+	"yandex.com",
+	"vk.com",
+	"ok.ru",
+	"drugvokrug.ru",
+	"DRUGVOKRUG.ru",
+	"hoyolab.com",
+	"mail.com",
 
 	// chinois
 
