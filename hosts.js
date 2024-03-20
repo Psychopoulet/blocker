@@ -29,14 +29,24 @@ module.exports = [
 	// russes
 
 	"kaspersky.fr",
+	"kaspersky.ru",
+
 	"rt.com",
+	"rt.ru",
+
 	"yandex.com",
+	"yandex.ru",
+
 	"vk.com",
-	"ok.ru",
+	"vk.ru",
+	
 	"drugvokrug.ru",
 	"DRUGVOKRUG.ru",
+
+	"ok.ru",
 	"hoyolab.com",
 	"mail.com",
+	"kremlin.ru",
 
 	// chinois
 
