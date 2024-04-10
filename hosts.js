@@ -58,6 +58,9 @@ module.exports = [
 	"icePrime.a-0003.dc-msedge.net",
 	"a1817.dscd.akamai.net",
 
+	"shein.com",
+	"shein.com.edgekey.net",
+
 	"huawei.com",
 	"huawei.com.akadns.net",
 	"ion-sslv6.huawei.com.edgekey.net",
@@ -75,6 +78,7 @@ module.exports = [
 
 	"ztedevices.com",
 	"ztedevices.com.cdn.dnsv1.com.cn",
+	"www-ztedevices-com-idvnrtr.qiniudns.com",
 
 	"wechat.com"
 
