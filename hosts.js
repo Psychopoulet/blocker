@@ -63,6 +63,7 @@ module.exports = [
 
 	"huawei.com",
 	"huawei.com.akadns.net",
+	"wwwprod.www-bing-com.akadns.net",
 	"ion-sslv6.huawei.com.edgekey.net",
 
 	"mi.com",
