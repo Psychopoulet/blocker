@@ -22,7 +22,7 @@
 
 		return new Promise((resolve, reject) => {
 
-			exec("nslookup " + host, (err, stdout) => {
+			exec("nslookup \"" + host + "\"", (err, stdout) => {
 
 				if (err) {
 					reject(err);

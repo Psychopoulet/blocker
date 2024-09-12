@@ -22,5 +22,5 @@ if '%errorlevel%' NEQ '0' (
     CD /D "%~dp0"
 
 rem --- FROM HERE PASTE YOUR ADMIN-ENABLED BATCH SCRIPT ---
-node %~dp0\main.js && pause
+node "%~dp0\main.js" && pause
 rem --- END OF BATCH ----
