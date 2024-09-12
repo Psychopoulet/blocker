@@ -5,6 +5,7 @@ module.exports = [
 	"bing.com",
 	"www-www.bing.com.trafficmanager.net",
 	"bing.com.edgekey.net",
+	"bing.com.edgekey.neT",
 
 	"a-msedge.net",
 	"www-msn-com.a-0003.a-msedge.net",
@@ -17,6 +18,8 @@ module.exports = [
 
 	"instagram.com",
 	"geo-p42.instagram.com",
+
+	"doubleclick.net",
 
 	"x.com",
 	"twitter.com",
