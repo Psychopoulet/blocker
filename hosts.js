@@ -2,32 +2,52 @@ module.exports = [
 
 	// américains
 
-	"bing.com",
-	"www-www.bing.com.trafficmanager.net",
-	"bing.com.edgekey.net",
-	"bing.com.edgekey.neT",
-
-	"a-msedge.net",
-	"www-msn-com.a-0003.a-msedge.net",
-
-	"msn.com",
-
 	"mcafee.com",
-	"www-mcafeee-r53.awsconsumer.mcafee.com",
-	"mcafee.com.edgekey.net",
-
-	"instagram.com",
-	"geo-p42.instagram.com",
+		"www-mcafeee-r53.awsconsumer.mcafee.com",
+		"mcafee.com.edgekey.net",
 
 	"doubleclick.net",
-
-	"x.com",
-	"twitter.com",
 
 	"trustedsource.org",
 	"scorecardresearch.com",
 	"onetrust.com",
-	"privacyportal.onetrust.com",
+		"privacyportal.onetrust.com",
+
+		// réseaux sociaux
+
+		"facebook.com",
+			"star.facebook.com",
+		"instagram.com",
+			"geo-p42.instagram.com",
+		"linkedin.com",
+			"cf-afd.www.linkedin.com",
+		"messenger.com",
+		"pinterest.com",
+			"www-pinterest-com.gslb.pinterest.com",
+			"gslb.pinterest.net",
+			"pinterest.com.edgekey.net",
+		"signal.org",
+		"snapchat.com",
+			"web-gcp.api.snapchat.com",
+		"threads.net",
+		"twitter.com",
+		"x.com",
+
+		// microsoft
+
+		"bing.com",
+			"www-www.bing.com.trafficmanager.net",
+			"bing.com.edgekey.net",
+			"bing.com.edgekey.neT",
+
+		"a-msedge.net",
+
+		"msn.com",
+			"www-msn-com.a-0003.a-msedge.net",
+
+	// Emirats Arabes Unis
+
+	"telegram.org",
 
 	// russes
 
@@ -51,39 +71,60 @@ module.exports = [
 	"mail.com",
 	"kremlin.ru",
 
+	// japonais
+
+	"line.me",
+
 	// chinois
 
-	"tiktok.com",
-	"tiktok.com.edgesuite.net",
+	"alibaba.com",
+		"alibaba.com.gds.alibabadns.com",
+		"alibaba.com.edgekey.net",
 
-	"temu.com",
-	"temu-gtm.trafficmanager.net",
-	"icePrime.a-0003.dc-msedge.net",
-	"a1817.dscd.akamai.net",
-
-	"shein.com",
-	"shein.com.edgekey.net",
+	"douyin.com",
+		"douyin.com.bytedns1.com",
+		"douyin.com.w.kunluncan.com",
 
 	"huawei.com",
-	"huawei.com.akadns.net",
-	"wwwprod.www-bing-com.akadns.net",
-	"ion-sslv6.huawei.com.edgekey.net",
+		"huawei.com.akadns.net",
+		"wwwprod.www-bing-com.akadns.net",
+		"ion-sslv6.huawei.com.edgekey.net",
 
-	"mi.com",
-	"mi.gslb.ks-cdn.com",
-	"xiaomi.edgesuite.net",
-
-	"alibaba.com",
-	"alibaba.com.gds.alibabadns.com",
-	"alibaba.com.edgekey.net",
+	"kuaishou.com",
 
 	"lenovo.com",
-	"lenovo.com.edgekey.net",
+		"lenovo.com.edgekey.net",
+
+	"qq.com",
+
+	"shein.com",
+		"shein.com.edgekey.net",
+
+	"temu.com",
+		"temu-gtm.trafficmanager.net",
+		"icePrime.a-0003.dc-msedge.net",
+		"a1817.dscd.akamai.net",
+
+	"tencent.com",
+		"tencent.com.cdn.dnsv1.com",
+
+	"tiktok.com",
+		"tiktok.com.edgesuite.net",
+
+	"viber.com",
+		"viber.production.dualstack.edgekey.net",
+
+	"wechat.com",
+
+	"weibo.cn",
+	"weibo.com",
+
+	"mi.com",
+		"mi.gslb.ks-cdn.com",
+		"xiaomi.edgesuite.net",
 
 	"ztedevices.com",
-	"ztedevices.com.cdn.dnsv1.com.cn",
-	"www-ztedevices-com-idvnrtr.qiniudns.com",
-
-	"wechat.com"
+		"ztedevices.com.cdn.dnsv1.com.cn",
+		"www-ztedevices-com-idvnrtr.qiniudns.com"
 
 ];
