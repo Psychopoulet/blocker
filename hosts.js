@@ -1,5 +1,10 @@
 module.exports = [
 
+	// random pubs
+
+	"01.net",
+	"clubic.com",
+
 	// américains
 
 	"mcafee.com",
@@ -62,7 +67,7 @@ module.exports = [
 
 	"vk.com",
 	"vk.ru",
-	
+
 	"drugvokrug.ru",
 	"DRUGVOKRUG.ru",
 
