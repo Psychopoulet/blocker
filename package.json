@@ -1,19 +1,49 @@
 {
+
   "name": "blocker",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "",
-  "main": "main.js",
+
+  "type": "commonjs",
+  "main": "./main.cjs",
+
+  "exports": {
+    ".": {
+      "require": {
+        "default": "./main.cjs"
+      }
+    }
+  },
+
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+
+  "files": [
+    "basic_hostsfile.txt",
+    "execute.bat",
+    "hosts.js",
+    "main.js",
+    "update.bat"
+  ],
+  "engines": {
+    "node": ">=22.22.3"
+  },
+
+  "dependencies": {},
+  "devDependencies": {},
+
+  "author": "Sébastien VIDAL",
+  "contributors": [],
+  "license": "ISC",
+
+  "homepage": "https://github.com/Psychopoulet/blocker#readme",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Psychopoulet/blocker.git"
   },
-  "author": "Sébastien VIDAL",
-  "license": "ISC",
   "bugs": {
     "url": "https://github.com/Psychopoulet/blocker/issues"
-  },
-  "homepage": "https://github.com/Psychopoulet/blocker#readme"
+  }
+
 }
